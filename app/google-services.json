@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801463580178",
+    "project_id": "jubileecommunityclinic",
+    "storage_bucket": "jubileecommunityclinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801463580178:android:8858c3db6d9c7ec4154acb",
+        "android_client_info": {
+          "package_name": "com.example.jubileecommunityclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzT0U66jSxL2o4KYdieI8xM1MzKd3Zayc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
